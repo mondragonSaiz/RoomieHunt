@@ -3,7 +3,7 @@ RoomieHunt is a mobile/web application designed to help users find compatible ro
 
 ## Walkthrough video
 - https://youtu.be/r3KTu0JFpQU
-- 
+
 ## Link to deployed application:
 - https://arcane-tundra-44281-d362c28aef30.herokuapp.com/
 
