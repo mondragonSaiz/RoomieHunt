@@ -18,8 +18,8 @@ RoomieHunt is a mobile/web application designed to help users find compatible ro
 
 ## Important Links 
 * [Github Repository](https://github.com/Enrique-V06/Proyect-2)
-* [Walkthrough Video]()
-* [Project Presentation]()
+* [Walkthrough Video](https://youtu.be/r3KTu0JFpQU)
+
 
 
 ## Installation Instructions
