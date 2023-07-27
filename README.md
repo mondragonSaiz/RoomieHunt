@@ -1,6 +1,9 @@
 # RoomieHunt
 RoomieHunt is a mobile/web application designed to help users find compatible roommates for shared living spaces.
 
+## Link to deployed application:
+- https://arcane-tundra-44281-d362c28aef30.herokuapp.com/
+
 ## Link to Repository
 - https://github.com/Enrique-V06/roomiefinder
 
