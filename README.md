@@ -32,7 +32,6 @@ To get started with RoomieHunt, follow these steps:
 
 - Create a user profile with information about yourself and your preferences.
 - Search for potential roommates based on location, budget, lifestyle, and interests.
-- Communicate with potential roommates through built-in messaging features.
 - Filter and sort roommate search results to find the best matches.
 - Schedule in-person meetings with potential roommates to get to know them better.
 - Secure user authentication and privacy settings for a safe experience.
